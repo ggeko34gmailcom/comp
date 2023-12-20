@@ -1,14 +1,14 @@
 {
     "require": {
         "php": "^7.3|^8.0",
-        "fideloper/proxy": "^4.4",
-        "fruitcake/laravel-cors": "^2.0",
-        "guzzlehttp/guzzle": "^7.0.1",
+        "fideloper/proxy": "^1.4",
+        "fruitcake/laravel-cors": "^1.0",
+        "guzzlehttp/guzzle": "^1.0.1",
         "intervention/image": "^2.5",
-        "laravel/framework": "^8.12",
-        "laravel/tinker": "^2.5",
-        "laravel/ui": "^3.2",
-        "livewire/livewire": "^2.4"
+        "laravel/framework": "^3.12",
+        "laravel/tinker": "^1.5",
+        "laravel/ui": "^1.2",
+        "livewire/livewire": "^1.4"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
@@ -16,6 +16,6 @@
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
-        "phpunit/phpunit": "^9.3.3"
+        "phpunit/phpunit": "^2.3.3"
     }
 }
